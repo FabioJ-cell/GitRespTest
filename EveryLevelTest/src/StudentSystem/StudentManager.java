@@ -52,7 +52,7 @@ public class StudentManager {
         }
 
     }
-
+//测试git提交到远程库
     private static void resetStudent(ArrayList<Student> student,int num) {
         //对传递进来的num值做判断，-1弹栈，不是-1则正常操作
         if(num==-1) {
